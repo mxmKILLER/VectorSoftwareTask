@@ -119,13 +119,13 @@ namespace VectorSoftwareTask
 
         private static void PopulateSqureArrays(Sudoku sudoku, List<int[]> arrays)
         {
-            int[,] arr1 = new int[sudoku.size, sudoku.size];
+            int[,] tempArray = new int[sudoku.size, sudoku.size];
             for (int i = 0; i < sudoku.size; i++)
             {
                 int square = (int)Math.Sqrt(sudoku.size);
                 for (int j = 0; j < sudoku.size; j++)
                 {
-                    arr1[square * (i / square) + (j / square), square * (i % square) + (j % square)] = sudoku.body[i, j];
+                    tempArray[square * (i / square) + (j / square), square * (i % square) + (j % square)] = sudoku.body[i, j];
                 }
             }
 
@@ -134,7 +134,7 @@ namespace VectorSoftwareTask
                 int[] arr = new int[sudoku.size];
                 for (int j = 0; j < sudoku.size; j++)
                 {
-                    arr[j] = arr1[i, j];
+                    arr[j] = tempArray[i, j];
                 }
                 arrays.Add(arr);
             }
