@@ -1,0 +1,13 @@
+D:\dev\Task\VectorSoftwareTask\VectorSoftwareTask\VectorSoftwareTask\bin\Debug\netcoreapp3.1\VectorSoftwareTask.exe
+D:\dev\Task\VectorSoftwareTask\VectorSoftwareTask\VectorSoftwareTask\bin\Debug\netcoreapp3.1\VectorSoftwareTask.deps.json
+D:\dev\Task\VectorSoftwareTask\VectorSoftwareTask\VectorSoftwareTask\bin\Debug\netcoreapp3.1\VectorSoftwareTask.runtimeconfig.json
+D:\dev\Task\VectorSoftwareTask\VectorSoftwareTask\VectorSoftwareTask\bin\Debug\netcoreapp3.1\VectorSoftwareTask.runtimeconfig.dev.json
+D:\dev\Task\VectorSoftwareTask\VectorSoftwareTask\VectorSoftwareTask\bin\Debug\netcoreapp3.1\VectorSoftwareTask.dll
+D:\dev\Task\VectorSoftwareTask\VectorSoftwareTask\VectorSoftwareTask\bin\Debug\netcoreapp3.1\VectorSoftwareTask.pdb
+D:\dev\Task\VectorSoftwareTask\VectorSoftwareTask\VectorSoftwareTask\obj\Debug\netcoreapp3.1\VectorSoftwareTask.csprojAssemblyReference.cache
+D:\dev\Task\VectorSoftwareTask\VectorSoftwareTask\VectorSoftwareTask\obj\Debug\netcoreapp3.1\VectorSoftwareTask.AssemblyInfoInputs.cache
+D:\dev\Task\VectorSoftwareTask\VectorSoftwareTask\VectorSoftwareTask\obj\Debug\netcoreapp3.1\VectorSoftwareTask.AssemblyInfo.cs
+D:\dev\Task\VectorSoftwareTask\VectorSoftwareTask\VectorSoftwareTask\obj\Debug\netcoreapp3.1\VectorSoftwareTask.csproj.CoreCompileInputs.cache
+D:\dev\Task\VectorSoftwareTask\VectorSoftwareTask\VectorSoftwareTask\obj\Debug\netcoreapp3.1\VectorSoftwareTask.dll
+D:\dev\Task\VectorSoftwareTask\VectorSoftwareTask\VectorSoftwareTask\obj\Debug\netcoreapp3.1\VectorSoftwareTask.pdb
+D:\dev\Task\VectorSoftwareTask\VectorSoftwareTask\VectorSoftwareTask\obj\Debug\netcoreapp3.1\VectorSoftwareTask.genruntimeconfig.cache
